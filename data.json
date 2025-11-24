@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "nome": "Katana",
+        "descricao": "A Katana é uma espada japonesa tradicional, conhecida por sua lâmina curva e afiada.",
+        "criacao": "Período Muromachi (1392–1573), Japão",
+        "imagem": "img/katana.png",
+        "historia": "Forjada com um processo complexo de dobra e têmpera diferencial, a Katana era a alma do samurai. Sua lâmina permitia cortes rápidos e precisos, sendo um símbolo de honra e status social no Japão feudal.",
+        "uso": "Era primariamente uma arma de corte, mas sua ponta afiada também era eficaz para estocadas. O samurai a empunhava com as duas mãos para maximizar a força e a precisão dos golpes.",
+        "imagem_uso": "img/katana_uso.png"
+    },
+    {
+        "id": 2,
+        "nome": "Espada Longa",
+        "descricao": "Uma espada de duas mãos usada na Europa medieval, conhecida por seu alcance e poder de corte.",
+        "criacao": "Aproximadamente entre 1350 e 1550, Europa",
+        "imagem": "img/longsword.png",
+        "historia": "A espada longa foi a principal arma de cavaleiros e homens de armas no final da Idade Média. Sua versatilidade permitia seu uso tanto a pé quanto a cavalo.",
+        "uso": "Era uma arma extremamente versátil, eficaz para cortes, estocadas e até mesmo para usar o pomo e a guarda como uma arma de impacto contra oponentes de armadura.",
+        "imagem_uso": "img/longsword_uso.png"
+    },
+    {
+        "id": 3,
+        "nome": "Rapieira",
+        "descricao": "Uma espada fina e pontiaguda, popular na Europa renascentista, projetada principalmente para estocadas.",
+        "criacao": "Século XVI, Espanha e Itália",
+        "imagem": "img/rapier.png",
+        "historia": "Desenvolvida como uma arma civil para autodefesa e duelos, a rapieira era mais leve e ágil que as espadas militares da época. Sua complexa guarda protegia a mão do usuário.",
+        "uso": "O foco da rapieira era a estocada. Esgrimistas usavam movimentos rápidos e precisos para atingir pontos vitais do oponente, muitas vezes acompanhados por uma adaga na outra mão.",
+        "imagem_uso": "img/rapier_uso.png"
+    },
+    {
+        "id": 4,
+        "nome": "Morning Star",
+        "descricao": "Uma arma de contusão medieval que consiste em uma haste com uma bola com pontas no final, projetada para esmagar e perfurar.",
+        "criacao": "Início do século XIV, Alemanha",
+        "imagem": "img/morningstar.png",
+        "historia": "Uma evolução brutal da maça, a Estrela da Manhã foi projetada para combater a crescente eficácia das armaduras de placas. As pontas podiam perfurar ou amassar o metal.",
+        "uso": "Usada com uma ou duas mãos, era uma arma de força bruta. Os golpes eram direcionados para a cabeça ou articulações do oponente para incapacitá-lo através do impacto.",
+        "imagem_uso": "img/morningstar_uso.png"
+    },
+    {
+        "id": 5,
+        "nome": "Arco e Flecha",
+        "descricao": "Um sistema de armas de longo alcance que consiste em um arco para impulsionar flechas.",
+        "criacao": "Período Paleolítico Superior ao Mesolítico",
+        "imagem": "img/bowarrow.png",
+        "historia": "Uma das mais antigas armas de projétil da humanidade, o arco e flecha revolucionou a caça e a guerra, permitindo ataques a distância com relativa precisão e silêncio.",
+        "uso": "O arqueiro posicionava a flecha na corda, puxava-a para tensionar o arco e a soltava. A eficácia dependia da força do arco, do tipo de ponta da flecha e da habilidade do arqueiro.",
+        "imagem_uso": "img/bowarrow_uso.png"
+    },
+    {
+        "id": 6,
+        "nome": "Adaga",
+        "descricao": "Uma faca de lâmina curta e pontiaguda, projetada para perfurar ou apunhalar.",
+        "criacao": "Idade da Pedra, difundida globalmente",
+        "imagem": "img/dagger.png",
+        "historia": "A adaga é uma das armas mais antigas da humanidade, evoluindo de ferramentas de pedra para armas de metal. Era frequentemente usada como uma arma secundária ou para combate em espaços confinados.",
+        "uso": "Ideal para estocadas rápidas e discretas. Muitas vezes empunhada na mão inábil em conjunto com uma espada mais longa, para aparar golpes ou atacar em uma abertura.",
+        "imagem_uso": "img/dagger_uso.png"
+    },
+    {
+        "id": 7,
+        "nome": "Machado de Batalha",
+        "descricao": "Uma arma de haste com uma lâmina pesada, projetada para cortar e esmagar armaduras.",
+        "criacao": "Antiguidade, popular na Era Viking e Idade Média",
+        "imagem": "img/battleaxe.png",
+        "historia": "O machado de batalha era uma arma devastadora, capaz de causar ferimentos terríveis e quebrar escudos. Os machados dinamarqueses de duas mãos, usados pelos Vikings, eram particularmente temidos.",
+        "uso": "Exigia grande força para ser manuseado. Os golpes eram desferidos em arcos amplos para maximizar o poder de corte, visando quebrar a linha de defesa do inimigo.",
+        "imagem_uso": "img/battleaxe_uso.png"
+    },
+    {
+        "id": 8,
+        "nome": "Lança",
+        "descricao": "Uma arma de haste longa com uma ponta afiada, uma das armas mais comuns da história.",
+        "criacao": "Pré-história, usada em todas as culturas",
+        "imagem": "img/spear.png",
+        "historia": "Desde a caça de mamutes até as falanges gregas e legiões romanas, a lança foi a espinha dorsal de quase todos os exércitos da antiguidade. Sua simplicidade e eficácia a tornaram indispensável.",
+        "uso": "Usada principalmente para estocadas a uma distância segura. Em formação, uma parede de lanças era uma defesa quase impenetrável contra a cavalaria e a infantaria inimiga.",
+        "imagem_uso": "img/spear_uso.png"
+    },
+    {
+        "id": 9,
+        "nome": "Cimitarra",
+        "descricao": "Uma espada de lâmina curva originária do Oriente Médio, projetada para cortes a partir da cavalaria.",
+        "criacao": "Aproximadamente século IX, Pérsia/Oriente Médio",
+        "imagem": "img/scimitar.png",
+        "historia": "A cimitarra tornou-se um símbolo das culturas do Oriente Médio e do Islã. Sua lâmina curva era perfeita para os ataques rápidos e fluidos dos guerreiros montados, cortando eficazmente sem ficar presa.",
+        "uso": "Empunhada com uma mão, geralmente a cavalo. O cavaleiro usava a velocidade do cavalo para aumentar o poder de seus golpes cortantes contra a infantaria inimiga.",
+        "imagem_uso": "img/scimitar_uso.png"
+    },
+    {
+        "id": 10,
+        "nome": "Gládio",
+        "descricao": "A espada curta e de dois gumes usada pelos legionários romanos, projetada para estocadas em formação.",
+        "criacao": "Século III a.C., República Romana (derivada de modelos hispânicos)",
+        "imagem": "img/gladius.png",
+        "historia": "O gládio foi a arma que conquistou o Mediterrâneo. Em conjunto com o grande escudo (scutum), permitia que os legionários lutassem em formações apertadas, apunhalando os inimigos com golpes curtos e mortais.",
+        "uso": "Atrás da proteção de uma parede de escudos, o legionário usava o gládio para estocadas rápidas no torso do oponente. Era uma arma brutalmente eficiente para o combate corpo a corpo em massa.",
+        "imagem_uso": "img/gladius_uso.png"
+    },
+    {
+        "id": 11,
+        "nome": "Alabarda",
+        "descricao": "Uma arma de haste de duas mãos que combina uma lâmina de machado, uma ponta de lança e um gancho.",
+        "criacao": "Século XIV, Suíça e Alemanha",
+        "imagem": "img/halberd.png",
+        "historia": "A alabarda foi uma arma de infantaria extremamente versátil. Os piqueiros suíços a usaram com grande efeito contra a cavalaria no final da Idade Média, tornando-se uma das armas de haste mais dominantes do campo de batalha.",
+        "uso": "Sua ponta era usada para estocar, a lâmina do machado para cortar e o gancho traseiro para desmontar cavaleiros de suas montarias ou prender escudos.",
+        "imagem_uso": "img/halberd_uso.png"
+    },
+    {
+        "id": 12,
+        "nome": "Besta",
+        "descricao": "Uma arma de projétil que dispara virotes, baseada em um arco montado horizontalmente em uma coronha.",
+        "criacao": "Aproximadamente século V a.C., China",
+        "imagem": "img/crossbow.png",
+        "historia": "A besta era mais fácil de operar do que um arco longo e seu virote tinha um poder de perfuração imenso, capaz de penetrar armaduras. Foi tão eficaz que chegou a ser considerada uma arma 'desleal' por alguns.",
+        "uso": "O usuário arma a besta (muitas vezes com ajuda de mecanismos), mira e aperta um gatilho. Exigia menos treinamento que o arco, mas tinha uma cadência de tiro mais lenta.",
+        "imagem_uso": "img/crossbow_uso.png"
+    },
+    {
+        "id": 13,
+        "nome": "Tridente",
+        "descricao": "Uma lança de três pontas, usada tanto para pesca quanto para combate.",
+        "criacao": "Antiguidade, associada à mitologia greco-romana",
+        "imagem": "img/trident.png",
+        "historia": "Famosamente empunhado por Poseidon/Netuno, o tridente também era a arma dos gladiadores retiarius em Roma. Eles o usavam em conjunto com uma rede para prender e atacar seus oponentes.",
+        "uso": "No combate, o tridente era usado para aparar e prender a arma do oponente com suas pontas externas, enquanto a ponta central era usada para a estocada mortal.",
+        "imagem_uso": "img/trident_uso.png"
+    },
+    {
+        "id": 14,
+        "nome": "Claymore",
+        "descricao": "Uma grande espada de duas mãos escocesa, famosa por seu uso pelos guerreiros das Terras Altas.",
+        "criacao": "Século XV, Escócia",
+        "imagem": "img/claymore.png",
+        "historia": "A Claymore era a arma dos Highlanders escoceses em suas guerras contra os ingleses. Sua guarda distintiva, com braços inclinados para a frente terminando em losangos, é sua característica mais reconhecível.",
+        "uso": "Uma arma de grande alcance e poder, usada para desferir golpes amplos e poderosos. Exigia força e espaço para ser usada com eficácia, capaz de quebrar formações de piqueiros ou atacar cavaleiros.",
+        "imagem_uso": "img/claymore_uso.png"
+    },
+    {
+        "id": 15,
+        "nome": "AK-47",
+        "descricao": "Um fuzil de assalto de calibre 7,62x39mm criado na União Soviética, conhecido por sua robustez e confiabilidade.",
+        "criacao": "1947, União Soviética",
+        "imagem": "img/ak47.png",
+        "historia": "Projetado por Mikhail Kalashnikov após a Segunda Guerra Mundial, o AK-47 se tornou o fuzil mais produzido e difundido do mundo devido à sua simplicidade, baixo custo e incrível durabilidade em condições adversas.",
+        "uso": "É um fuzil de fogo seletivo (automático ou semiautomático). Sua operação simples o torna fácil de usar e manter, mesmo por soldados com pouco treinamento.",
+        "imagem_uso": "img/ak47_uso.png"
+    },
+    {
+        "id": 16,
+        "nome": "Fuzil M16",
+        "descricao": "Um fuzil de assalto de calibre 5,56x45mm adotado pelas forças armadas dos Estados Unidos.",
+        "criacao": "1959, Estados Unidos",
+        "imagem": "img/m16.png",
+        "historia": "Introduzido durante a Guerra do Vietnã, o M16 era leve e preciso, mas suas primeiras versões sofreram com problemas de confiabilidade. Evoluções posteriores o tornaram um fuzil icônico do Ocidente.",
+        "uso": "O M16 é conhecido por sua precisão em médias distâncias. Utiliza um sistema de impacto de gás direto e é mais leve que seu rival, o AK-47, devido ao uso de alumínio e polímeros.",
+        "imagem_uso": "img/m16_uso.png"
+    },
+    {
+        "id": 17,
+        "nome": "Glock 17",
+        "descricao": "Uma pistola semiautomática de fabricação austríaca, famosa por seu chassi de polímero e sistema de segurança.",
+        "criacao": "1982, Áustria",
+        "imagem": "img/glock.png",
+        "historia": "A Glock revolucionou o mercado de pistolas com seu design inovador, que utilizava um chassi de polímero em vez de metal, tornando-a mais leve e resistente à corrosão. Foi rapidamente adotada por forças policiais em todo o mundo.",
+        "uso": "É uma pistola semiautomática operada por recuo. Seu sistema de gatilho 'Safe Action' e a ausência de travas manuais externas a tornam muito rápida e simples de operar sob estresse.",
+        "imagem_uso": "img/glock_uso.png"
+    },
+    {
+        "id": 18,
+        "nome": "Remington 870",
+        "descricao": "Uma espingarda de ação de bombeamento (pump-action) americana, amplamente usada para caça e defesa.",
+        "criacao": "1950, Estados Unidos",
+        "imagem": "img/remington870.png",
+        "historia": "A Remington 870 é uma das espingardas mais vendidas de todos os tempos. Sua confiabilidade e versatilidade a tornaram popular entre caçadores, atiradores esportivos, policiais e militares.",
+        "uso": "O usuário desliza o guarda-mão para ejetar o cartucho usado e carregar um novo. Pode disparar uma variedade de munições, desde balotes únicos até múltiplos projéteis (chumbo).",
+        "imagem_uso": "img/remington870_uso.png"
+    },
+    {
+        "id": 19,
+        "nome": "Desert Eagle",
+        "descricao": "Uma pistola semiautomática de grande calibre, operada a gás, famosa por sua aparição em filmes e jogos.",
+        "criacao": "1982, Estados Unidos/Israel",
+        "imagem": "img/deserteagle.png",
+        "historia": "Mais famosa por seu status na cultura pop do que por seu uso prático, a Desert Eagle é uma das pistolas mais potentes do mundo. Seu sistema de operação a gás é mais comum em fuzis.",
+        "uso": "Devido ao seu tamanho, peso e recuo extremo (especialmente em calibre .50 AE), é uma arma difícil de manusear. É usada principalmente para tiro ao alvo e caça de grande porte.",
+        "imagem_uso": "img/deserteagle_uso.png"
+    },
+    {
+        "id": 20,
+        "nome": "Colt Python",
+        "descricao": "Um revólver de dupla ação de calibre .357 Magnum, conhecido por sua precisão e acabamento premium.",
+        "criacao": "1955, Estados Unidos",
+        "imagem": "img/coltpython.png",
+        "historia": "Considerado por muitos como o 'Rolls-Royce' dos revólveres, o Colt Python era famoso por seu gatilho suave e precisão excepcional. Era uma arma de status para policiais e civis.",
+        "uso": "Como um revólver, é operado manualmente para cada disparo (em ação simples) ou pelo puxar do gatilho (ação dupla). O calibre .357 Magnum oferece um poder de parada significativo.",
+        "imagem_uso": "img/coltpython_uso.png"
+    },
+    {
+        "id": 21,
+        "nome": "MP5",
+        "descricao": "Uma submetralhadora de calibre 9mm de fabricação alemã, famosa por sua precisão e controle.",
+        "criacao": "1966, Alemanha Ocidental",
+        "imagem": "img/mp5.png",
+        "historia": "A Heckler & Koch MP5 dominou o mercado de submetralhadoras por décadas, sendo a escolha de unidades de elite e forças especiais em todo o mundo devido ao seu sistema de recuo retardado por roletes, que garante alta precisão.",
+        "uso": "É uma arma compacta e de fogo seletivo, ideal para combate em ambientes fechados (CQB). Seu baixo recuo permite rajadas controladas e precisas.",
+        "imagem_uso": "img/mp5_uso.png"
+    },
+    {
+        "id": 22,
+        "nome": "Barrett M82",
+        "descricao": "Um fuzil de precisão antimaterial semiautomático de calibre .50 BMG.",
+        "criacao": "1982, Estados Unidos",
+        "imagem": "img/barrett.png",
+        "historia": "Projetado por Ronnie Barrett, o M82 (ou M107 em sua designação militar) redefiniu o papel do fuzil de precisão. Seu poderoso calibre .50 permite engajar alvos a longas distâncias, incluindo veículos leves e equipamentos.",
+        "uso": "Usado por atiradores de elite para neutralizar alvos importantes a distâncias extremas (mais de 1.500 metros). Seu recuo é gerenciado por um grande freio de boca e seu peso considerável.",
+        "imagem_uso": "img/barrett_uso.png"
+    },
+    {
+        "id": 23,
+        "nome": "FN FAL",
+        "descricao": "Um fuzil de batalha de calibre 7,62x51mm, conhecido como 'o braço direito do mundo livre' durante a Guerra Fria.",
+        "criacao": "1953, Bélgica",
+        "imagem": "img/fnfal.png",
+        "historia": "Adotado por mais de 90 países, o FN FAL foi o principal adversário do AK-47 durante a Guerra Fria. Era conhecido por seu poder, alcance e confiabilidade, embora fosse mais pesado e complexo que seu rival soviético.",
+        "uso": "Um fuzil de fogo seletivo que dispara um cartucho de fuzil de potência total. Era eficaz em longas distâncias, mas seu recuo em modo automático era difícil de controlar.",
+        "imagem_uso": "img/fnfal_uso.png"
+    },
+    {
+        "id": 24,
+        "nome": "Uzi",
+        "descricao": "Uma família de submetralhadoras israelenses compactas, operadas por recuo de ferrolho aberto.",
+        "criacao": "1950, Israel",
+        "imagem": "img/uzi.png",
+        "historia": "Projetada por Uziel Gal, a Uzi tornou-se uma das submetralhadoras mais famosas do mundo. Sua simplicidade, tamanho compacto e confiabilidade a tornaram um sucesso de exportação e um ícone da cultura pop.",
+        "uso": "Ideal para combate a curta distância e para tripulações de veículos devido ao seu tamanho. O carregador inserido no punho da pistola ajuda no equilíbrio e na recarga instintiva.",
+        "imagem_uso": "img/uzi_uso.png"
+    },
+    {
+        "id": 25,
+        "nome": "M1 Garand",
+        "descricao": "Um fuzil semiautomático de calibre .30-06, a principal arma de infantaria dos EUA na Segunda Guerra Mundial.",
+        "criacao": "1936, Estados Unidos",
+        "imagem": "img/m1garand.png",
+        "historia": "O General George S. Patton chamou-o de 'o maior implemento de batalha já concebido'. O M1 Garand deu à infantaria americana uma vantagem significativa em poder de fogo sobre seus adversários, que ainda usavam principalmente fuzis de ferrolho.",
+        "uso": "É alimentado por um clipe 'en bloc' de 8 munições. Após o último disparo, o clipe vazio é ejetado automaticamente com um som característico de 'ping'.",
+        "imagem_uso": "img/m1garand_uso.png"
+    }
+]
